@@ -1,1 +1,4 @@
-# bike-AzureIA900
+
+# Fundamentos de IA com AzureLabs 🤖
+
+Para usar o Azure Machine Learning, eu precissei fazer um espaço de trabalho. Uso o aprendizado de máquina automatizado para treinar um modelo, ele me permite experimentar vários algoritmos e parâmetros para treinar múltiplos modelos e identificar o melhor para meus dados. No exercicio que era uma regressão, usei um conjunto de dados de detalhes de aluguel de bicicletas, assim um histórico para treinar um modelo que prevê o número de aluguéis de bicicletas que devem ser esperados em um determinado dia, com base em características sazonais e meteorológicas. Puxando uma tabela já com as informações da WEB, consegui o resultado esperado da situação, me dando dados futuros que, foi utilziado dados passados para me da perspectivas novas.
